@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     "草喰なかひがしは、京都市左京区・銀閣寺近くで旬の山野草や野菜、炭火の肴、かまど炊きのご飯を通して四季を映す京料理店です。住所、入店時間、定休日、予約方法、アクセスをご案内します。",
   alternates: { canonical: "/" },
-  verification: { google: "1a30ff6d0bd4c0b4" },
+  verification: { google: "ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM" },
   openGraph: {
     type: "website",
     locale: "ja_JP",
